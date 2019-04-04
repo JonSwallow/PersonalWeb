@@ -5,7 +5,7 @@
 
 [Live Site](https://jonswallow.github.io/PersonalWeb/)
 
-[Repository](https://github.com/JonSwallow/441-work/tree/master/HW-10)
+[Repository](https://github.com/JonSwallow/PersonalWeb)
 
 ## Overview
 I used a template of sorts by reworking an old assignment from MART342.50 to suit my immediate needs, adding javaScript and reworking the css.
