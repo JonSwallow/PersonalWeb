@@ -3,7 +3,7 @@
 
 #PERSONALWEBSITE
 
-[Live Site](https://jonswallow.github.io/441-work/HW-10)
+[Live Site](https://jonswallow.github.io/PersonalWeb/)
 
 [Repository](https://github.com/JonSwallow/441-work/tree/master/HW-10)
 
