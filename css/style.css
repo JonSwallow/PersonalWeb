@@ -188,12 +188,8 @@ aside {
 /* attempting a zoom hover*?
 
 .zoom {
-  padding: 50px;
-  background-color: green;
-  transition: transform .2s; /* Animation */
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
+     transition: transform .2s; /* Animation */
+     margin: 0 auto;
 }
 
 .zoom:hover {
